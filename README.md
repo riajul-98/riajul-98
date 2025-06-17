@@ -5,6 +5,8 @@
 
 - 🔭 I’m currently working on [Deploying a simple banking app using EKS](https://github.com/riajul-98/banking-app-eks)
 
+- 🌱 I’m currently learning **DevOps concepts and tooling**
+
 - ⚡ Fun fact **I like going gym and playing badminton.**
 
 <h3 align="left">Connect with me:</h3>
